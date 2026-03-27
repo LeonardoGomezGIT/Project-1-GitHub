@@ -3,13 +3,14 @@
 ## Descripción del Proyecto
 
 Este proyecto analiza el comportamiento de las ventas de un negocio pequeño
-a lo largo del tiempo. A partir de registros de ventas diarias, se busca
+a traves del tiempo. Desde los registros de ventas diarios, se busca
 identificar patrones, productos más vendidos, días de mayor demanda y
-tendencias generales que puedan apoyar la toma de decisiones del negocio.
+tendencias generales que puedan apoyar la toma de decisiones del negocio para
+seguir adelante con el mismo.
 
-Es un proyecto típico de ciencia de datos aplicada a contextos reales y
+Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente
 accesibles, donde los datos son simples pero las conclusiones son valiosas
-para cualquier emprendedor o pequeño comerciante.
+para cualquier emprendedor o comerciante.
 
 ## Objetivos
 
