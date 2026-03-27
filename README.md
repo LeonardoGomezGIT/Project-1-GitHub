@@ -20,6 +20,8 @@ Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente acce
 - Hora de la Venta: Para identificar las horas pico y así optimizar el personal o la apertura del local.
 - ID de Cliente: Si hay programa de lealtad se utilizaría para medir la frecuencia de recompra.
 
+  ![variable-que-es jpg](https://github.com/user-attachments/assets/4dbcc93c-557a-4a2a-b504-bcae477b326a)
+
 ## Propuesta visual:
 - Line Chart que muestre la evolución de ventas diarias/mensuales para ver la tendencia.
 - Bar Chart que meustre top 10 productos más vendidos (por volumen y por ingreso).
