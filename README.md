@@ -4,6 +4,9 @@
 Este proyecto ***analiza el comportamiento de las ventas de un negocio pequeño a traves del tiempo***. Desde los registros de ventas diarios, _se busca identificar patrones, productos más vendidos, días de mayor demanda y tendencias generales que puedan apoyar la toma de decisiones del negocio para seguir adelante con el mismo_.
 Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente accesibles, donde los datos son simples pero las conclusiones son valiosas para cualquier emprendedor o comerciante.
 
+![modelos-de-negocios-digitales](https://github.com/user-attachments/assets/404822ff-ee94-47ff-81a8-cd3547df4294)
+
+
 ## Objetivos:
 - Cargar y limpiar un dataset de ventas para el negocio para mantener en línea todo lo que se mueve, entra y sale.
 - Identificar los productos y días con mayor volumen de ventas identificando estaciones en las que el porcentaje de compra es superior respectivo a otros momentos .
