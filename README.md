@@ -18,7 +18,7 @@ para cualquier emprendedor o pequeño comerciante.
 - Visualizar tendencias de ventas a lo largo del tiempo.
 - Extraer conclusiones útiles para la gestión del negocio.
 
-## Variables del Dataset
+## Variables 
 
 - Fecha de venta
 - Producto vendido
