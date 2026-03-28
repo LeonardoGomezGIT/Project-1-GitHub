@@ -4,8 +4,7 @@
 Este proyecto ***analiza el comportamiento de las ventas de un negocio pequeño a traves del tiempo***. Desde los registros de ventas diarios, _se busca identificar patrones, productos más vendidos, días de mayor demanda y tendencias generales que puedan apoyar la toma de decisiones del negocio para seguir adelante con el mismo_.
 Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente accesibles, donde los datos son simples pero las conclusiones son valiosas para cualquier emprendedor o comerciante.
 
-![modelos-de-negocios-digitales](https://github.com/user-attachments/assets/404822ff-ee94-47ff-81a8-cd3547df4294)
-
+<img src="https://github.com/user-attachments/assets/404822ff-ee94-47ff-81a8-cd3547df4294" width="400">
 
 ## **Objetivos:**
 - Cargar y limpiar un dataset de ventas para el negocio para mantener en línea todo lo que se mueve, entra y sale.
@@ -20,8 +19,7 @@ Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente acce
 - Hora de la Venta: Para identificar las horas pico y así optimizar el personal o la apertura del local.
 - ID de Cliente: Si hay programa de lealtad se utilizaría para medir la frecuencia de recompra.
 
-  ![variable-que-es jpg](https://github.com/user-attachments/assets/4dbcc93c-557a-4a2a-b504-bcae477b326a)
-
+<img src="<img src="https://github.com/user-attachments/assets/4dbcc93c-557a-4a2a-b504-bcae477b326a" alt="imagen"  width="450">
 ## **Propuesta visual:**
 - Line Chart que muestre la evolución de ventas diarias/mensuales para ver la tendencia.
 - Bar Chart que meustre top 10 productos más vendidos (por volumen y por ingreso).
