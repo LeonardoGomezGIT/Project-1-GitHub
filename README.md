@@ -44,4 +44,7 @@ Es un proyecto de ciencia de datos aplicada a contextos reales y facilmente acce
 
 - Decisiones Basadas en Datos: La transición de una gestión intuitiva a una basada en visualizaciones y tendencias reduce la incertidumbre y prepara al emprendedor para anticipar estacionalidades mediante modelos predictivos.
 
+  ![people-8238927_640](https://github.com/user-attachments/assets/c485785b-33a1-422d-b7e8-4903b075dd12)
+
+
 ***Nota Final***: Este proyecto demuestra que no se necesitan "Big Data" complejos para generar un impacto real. La ciencia de datos aplicada con coherencia y enfoque en el negocio es la herramienta más poderosa para cualquier comerciante que busque escalar de forma sostenible.
